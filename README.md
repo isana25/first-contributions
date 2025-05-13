@@ -50,6 +50,7 @@
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](docs/translations/README.ur.md)</kbd>
 <kbd>[<img title="Twi (Ghana)" alt="Twi (Ghana)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gh.svg" width="22">](docs/translations/README.gh.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](docs/translations/README.pl.md)</kbd>
+<kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](docs/translations/README.pl.md)</kbd>
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](docs/translations/README.pt-pt.md)</kbd>
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](docs/translations/README.ru.md)</kbd>
 <kbd>[<img title="عربى" alt="عربى" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](docs/translations/README.ar.md)</kbd>
